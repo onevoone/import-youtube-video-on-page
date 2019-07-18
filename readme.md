@@ -4,7 +4,7 @@
 <p>With Vue.js: <a href="https://github.com/3vilArthas/vue-lazy-youtube-video" target="_blank">vue-lazy-youtube-video</a></p>
 <p>With React.js: <a href="https://github.com/VladyslavKochetkov/React-Youtube" target="_blank">React-Youtube</a></p>
 
-<p>Source of replacement method: <a href="https://youtu.be/4JS70KB9GS0" target="_blank">WebDesign Master</a></p>
+<p>Source of replacement method: <a href="https://youtu.be/4JS70KB9GS0" target="_blank">YouTube video</a></p>
 
 
 <h2>Inspiration</h2>
